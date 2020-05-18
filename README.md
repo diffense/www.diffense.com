@@ -1,7 +1,7 @@
 
 # deploying a docker image to heroku
 
-https://github.com/rjoonas/heroku-docker-nginx-example
+계정: ceo@diffense.co.kr
 
 ```sh
 git clone git@github.com:diffense/diffense.com.git
@@ -15,3 +15,7 @@ heroku open
 
 heroku domains:add www.diffense.com    # custom domain 설정할 때
 ```
+
+
+참고 예제: https://github.com/rjoonas/heroku-docker-nginx-example
+
