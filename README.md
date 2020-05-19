@@ -1,8 +1,8 @@
 
 # deploying a docker image to heroku
 
-heroku 계정: ceo@diffense.co.kr
-도메인(diffense.com): whois 서비스(withhope@hanmail.net)
+* heroku 계정: ceo@diffense.co.kr
+* 도메인(diffense.com): whois 서비스(withhope@hanmail.net)
 
 ```sh
 git clone git@github.com:diffense/diffense.com.git
